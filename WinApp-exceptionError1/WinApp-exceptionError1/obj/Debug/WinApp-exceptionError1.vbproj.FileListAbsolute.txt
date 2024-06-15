@@ -1,0 +1,10 @@
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-exceptionError1\WinApp-exceptionError1\bin\Debug\WinApp-exceptionError1.exe.config
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-exceptionError1\WinApp-exceptionError1\bin\Debug\WinApp-exceptionError1.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-exceptionError1\WinApp-exceptionError1\bin\Debug\WinApp-exceptionError1.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-exceptionError1\WinApp-exceptionError1\bin\Debug\WinApp-exceptionError1.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-exceptionError1\WinApp-exceptionError1\obj\Debug\WinApp_exceptionError1.Form1.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-exceptionError1\WinApp-exceptionError1\obj\Debug\WinApp_exceptionError1.Resources.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-exceptionError1\WinApp-exceptionError1\obj\Debug\WinApp-exceptionError1.vbproj.GenerateResource.Cache
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-exceptionError1\WinApp-exceptionError1\obj\Debug\WinApp-exceptionError1.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-exceptionError1\WinApp-exceptionError1\obj\Debug\WinApp-exceptionError1.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\WinApp-exceptionError1\WinApp-exceptionError1\obj\Debug\WinApp-exceptionError1.pdb
